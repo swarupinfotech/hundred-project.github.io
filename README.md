@@ -64,7 +64,7 @@ Projects are kept **simple, readable, and beginner-friendly**.
 
 Most projects are deployed and accessible live for practice and reference.
 
-👉 **Explore & Learn:** *(Add your deployment link here)*
+👉 **Explore & Learn:** *(https://swarupinfotech.github.io/hundred-project.github.io/)*
 
 ---
 
